@@ -15,5 +15,5 @@ Hello! I'm Alexandra, a third year Computer Engineering student.
 
 
 ## Contact Information
-- **Email:** alexandralache@yahoo.com
+- **Email:** alexandra.lache0802@stud.acs.upb.ro
 - **LinkedIn:** [Alexandra Lache](www.linkedin.com/in/afg-lache)
