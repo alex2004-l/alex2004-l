@@ -7,6 +7,6 @@ Hello! I'm Alexandra, a fourth year Computer Science student at University Polit
 Python, C/C++, Java, SystemVerilog, Bash, Git
 
 ## Contact Information
-- **Email:** alexandralache@gmail.com
+- **Email:** alexandralache0802@gmail.com
 - **LinkedIn:** [Alexandra Lache](www.linkedin.com/in/afg-lache)
-- **Resume:** [link](https://drive.google.com/file/d/1PleR5Ets16pz2qEHnC-YwNdbx5CAVOz_/view?usp=sharing)
+- **Resume:** [link](https://drive.google.com/file/d/1vvov22CTW0FIqFoJNMDzMou5cBAOEZZ5/view?usp=sharing)
